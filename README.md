@@ -51,7 +51,7 @@
     <img src="https://komarev.com/ghpvc/?username=jahidhasanlinix">
 </a>
 <a href="https://github.com/jahidhasanlinix?tab=followers"><img src="https://img.shields.io/github/followers/jahidhasanlinix?label=Followers&style=flat-square" alt="GitHub Badge"></a>
----
+
 
 [website]: https://jahidhasanlinix.github.io/hasan_jahid/
 [twitter]: https://twitter.com/jhasanofficial
