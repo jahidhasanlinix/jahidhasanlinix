@@ -1,21 +1,21 @@
-## Hi, I'm Jahid Hasan - aka [JCyberSec][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40"> I'm Jahid Hasan - aka [JCyberSec][website] <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60">
 
 
-### I'm an independent Progammer, CyberSecurity, ML/DL and Data Analyst Enthusiast!!
+### :writing_hand: I'm an independent Progammer, CyberSecurity, ML/DL and Data Analyst Enthusiast!! :nerd_face:
 ---
 - 🌱 I’m currently learning everything 🤣
-- 🥅 Goals: Study and work hard to complete my PhD degree.
-- ⚡ Fun fact: I love to play Baseball & Cricket.
+- 🥅 Goals: Study and work hard to complete my PhD degree :muscle:
+- ⚡ Fun fact: I love to play Baseball :baseball: & Cricket :cricket_game:
 
 
-### Connect with me:
+### :busts_in_silhouette: Connect with me:
 ---
 [<img align="left" alt="jahidhasan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="jhasanofficial | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="jhasanofficial | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
-### Languages and Tools:
+### :keyboard: Languages and Tools:
 ---
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
@@ -30,7 +30,7 @@
     <a style="padding-right:8px;" href="https://www.w3schools.com/js/default.asp" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/javascript--v2.png"/> </a>
 </p>
 
-### 📊 My Github Stats
+### :chart_with_upwards_trend: My Github Stats
 ---
   <br/>
     <a href="https://github.com/jahidhasanlinix/github-readme-stats"><img alt="Jahid Hasan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jahidhasanlinix&show_icons=true&count_private=true&theme=dracula&hide_border=true" /></a>
@@ -47,6 +47,8 @@
 </a>
 <a href="https://github.com/jahidhasanlinix?tab=followers"><img src="https://img.shields.io/github/followers/jahidhasanlinix?label=Followers&style=flat-square" alt="GitHub Badge"></a>
 
+### :hugs: Follow Me On Twitter
+---
 ![Twitter Follow](https://img.shields.io/twitter/follow/jhasanofficial?style=for-the-badge)
 
 
