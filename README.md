@@ -1,7 +1,7 @@
 ## Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40"> I'm Jahid Hasan - aka [JCyberSec][website] <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60">
 
 
-### :writing_hand: I'm an independent Progammer, CyberSecurity, ML/DL and Data Analyst Enthusiast!! :nerd_face:
+### :writing_hand: I'm a self-taught CyberSecurity, ML/DL and Data Analysis Enthusiast!! :nerd_face:
 ---
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Goals: Study and work hard to complete my PhD degree :muscle:
