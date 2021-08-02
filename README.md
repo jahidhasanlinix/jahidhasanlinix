@@ -51,6 +51,20 @@
 ---
 ![Twitter Follow](https://img.shields.io/twitter/follow/jhasanofficial?style=for-the-badge)
 
+<h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Reading</a></h3>
+
+<kbd>2021-08-02</kbd>
+
+- “Believe you can and you’re halfway there.” - Theodore Roosevelt
+
+
+
+<!-- Randomly taken from quotations.md -->
+
+<p align="right">
+
+
+
 
 [website]: https://jahidhasanlinix.github.io/hasan_jahid/
 [twitter]: https://twitter.com/jhasanofficial
