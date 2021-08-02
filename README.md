@@ -2,7 +2,7 @@
 
 
 ### :writing_hand: I'm a self-taught CyberSecurity, ML/DL and Data Analysis Enthusiast!! :nerd_face:
----
+
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Goals: Study and work hard to complete my PhD degree :muscle:
 - ⚡ Fun fact: I love to play Baseball :baseball: & Cricket :cricket_game:
