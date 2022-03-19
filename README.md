@@ -1,7 +1,7 @@
-## Hi <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="39"> I'm Jahid Hasan - aka [JCyberSec][website] <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60">
+## Hi <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="39"> I'm Jahid Hasan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60">
 
 
-### :writing_hand: I'm a Deep Learning, Security and Privacy Researcher | Part-time Data Analysis!! <img src="https://emojis.slackmojis.com/emojis/images/1616369378/22769/meow_nerd2.png?1616369378" width="24">
+### :writing_hand: I'm a Deep Learning, Computer Vision, Big Data Analytics, HPC, Security Researcher | <img src="https://emojis.slackmojis.com/emojis/images/1616369378/22769/meow_nerd2.png?1616369378" width="24">
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Goals: Study and work hard to complete my PhD degree :muscle:
