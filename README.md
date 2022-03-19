@@ -10,7 +10,7 @@
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="27" /> Connect with me:
 ---
-[<img align="left" alt="jahidhasan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://sites.google.com/view/hasanjahid/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="jhasanofficial | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="jhasanofficial | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
@@ -53,6 +53,6 @@
 
 
 
-[website]: https://jahidhasanlinix.github.io/hasan_jahid/
+[website]: https://sites.google.com/view/hasanjahid/
 [twitter]: https://twitter.com/jhasanofficial
 [linkedin]: https://www.linkedin.com/in/jhasanofficial/
