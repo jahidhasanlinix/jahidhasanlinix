@@ -1,7 +1,7 @@
 ## Hi <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="39"> I'm Jahid Hasan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60">
 
 
-### :writing_hand: I'm a File & Storage Systems, Deep Learning, Big Data Analytics, HPC, Security Researcher | <img src="https://emojis.slackmojis.com/emojis/images/1616369378/22769/meow_nerd2.png?1616369378" width="24">
+### :writing_hand: Researching on File & Storage Systems, Deep Learning, Big Data Analytics, HPC, Security | <img src="https://emojis.slackmojis.com/emojis/images/1616369378/22769/meow_nerd2.png?1616369378" width="24">
 
 - 🌱 I’m currently working on my Start-up ideas along with my PhD
 - 🥅 Goals: Complete my PhD successfully and be an entrepreneur :muscle:
