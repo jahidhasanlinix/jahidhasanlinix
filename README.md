@@ -4,7 +4,7 @@
 ### :writing_hand: Focusing on Data Analytics and Project Mangement | <img src="https://emojis.slackmojis.com/emojis/images/1616369378/22769/meow_nerd2.png?1616369378" width="24">
 
 - 🌱 I’m currently enhancing my Data Analytics and Visualization skills using SQL, Tableau, Python
-- 🥅 Goals: Complete my PhD successfully and be an entrepreneur :muscle:
+- 🥅 Goals: Complete my PhD successfully and become a Researcher and an Entrepreneur :muscle:
 - ⚡ Fun fact: I love to play Baseball :baseball: & Cricket :cricket_game:
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="27" /> Connect with me:
