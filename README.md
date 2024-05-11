@@ -3,8 +3,8 @@
 
 <!-- ### :writing_hand: Focusing on Data Science & Analytics and Project Mangement | <img src="https://emojis.slackmojis.com/emojis/images/1616369378/22769/meow_nerd2.png?1616369378" width="24"> -->
 
-- 🌱 I’m currently enhancing my Data Science & Analytics and Visualization skills using Python, SQL, Excel, Tableau
-- 🥅 Goals: Complete my PhD successfully and become a Researcher and an Entrepreneur :muscle:
+<!-- 🌱 I’m currently enhancing my Data Science & Analytics and Visualization skills using Python, SQL, Excel, Tableau -->
+- 🥅 Goals: Complete my PhD successfully and become a leading Academic Researcher and Entrepreneur :muscle:
 - ⚡ Fun fact: I love to play Baseball :baseball: & Cricket :cricket_game:
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="27" /> Connect with me:
