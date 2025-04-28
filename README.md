@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" >
+</div>
+
+
 ## Hi <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="39"> I'm Jahid Hasan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60">
 
 
@@ -26,10 +31,12 @@
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1613746769/13611/stock_up.gif?1613746769" width="26"> My Github Stats:
 ---
-  <br/>
-    <a href="https://github.com/jahidhasanlinix/github-readme-stats"><img alt="Jahid Hasan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jahidhasanlinix&show_icons=true&count_private=true&theme=dracula&hide_border=true" /></a>
-  <a href="https://github.com/jahidhasanlinix/github-readme-stats"><img alt="Jahid Hasan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidhasanlinix&langs_count=8&count_private=true&layout=compact&theme=dracula&hide_border=true" /></a>
-  <br/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jahidhasanlinix&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jahidhasanlinix&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jahidhasanlinix&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jahidhasanlinix&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jahidhasanlinix&theme=github_dark)
 
 ### :hugs: Views and Followers:
 ---
