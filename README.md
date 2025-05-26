@@ -3,15 +3,18 @@
 </div>
 
 
-## Hi <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="39"> I'm Jahid Hasan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60">
+<h1 align="center">
+  Hi <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="40"/> I'm Jahid Hasan 
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"/>
+</h1>
 
 
-## 🔭 I’m currently working on 
+### 🔭 I’m currently working on 
 
 - [TheBinder AI](https://github.com/TheBinder-AI) (2 Projects: TheBinder Agent, Open-Source Swarm-Sync-SDK)
 - [Tometo AI](https://tometoai.com/) (#2 on Product Hunt)
 
-## 🔨 Some Old Projects
+### 🔨 Some Old Projects
 
 - [Arcane Arena Video Game](https://store.steampowered.com/app/2504810/Arcane_Arena/)
 - [IntelliParse - AI-powered document parser](https://intelliparse.vercel.app/)
