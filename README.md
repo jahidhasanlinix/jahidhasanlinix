@@ -6,11 +6,20 @@
 ## Hi <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="39"> I'm Jahid Hasan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60">
 
 
-<!-- ### :writing_hand: Focusing on Data Science & Analytics and Project Mangement | <img src="https://emojis.slackmojis.com/emojis/images/1616369378/22769/meow_nerd2.png?1616369378" width="24"> -->
+## 🔭 I’m currently working on 
 
-<!-- 🌱 I’m currently enhancing my Data Science & Analytics and Visualization skills using Python, SQL, Excel, Tableau -->
-- 🥅 Goals: Complete my PhD successfully and become a leading Academic Researcher and Entrepreneur :muscle:
-- ⚡ Fun fact: I love to play Baseball :baseball: & Cricket :cricket_game:
+- [TheBinder AI](https://github.com/TheBinder-AI) (2 Projects: TheBinder Agent, Open-Source Swarm-Sync-SDK)
+- [Tometo AI](https://tometoai.com/) (#2 on Product Hunt)
+
+## 🔨 Some Old Projects
+
+- [Arcane Arena Video Game](https://store.steampowered.com/app/2504810/Arcane_Arena/)
+- [IntelliParse - AI-powered document parser](https://intelliparse.vercel.app/)
+- [The Holy Quran](https://quran-xi-black.vercel.app/)
+- [NexusFM](https://pypi.org/project/nexusfm/) (An advanced personalized file manager with GUI and terminal interface)
+- [Startup Valuation Playground](https://startupvaluationcalculation.vercel.app/)
+- [Credit card fraud detection system](https://github.com/jahidhasanlinix/FraudDetectApp)
+- Ex-Founder of TucanaStarSoft, LLC (Dissolved): A video game development company
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="27" /> Connect with me:
 ---
