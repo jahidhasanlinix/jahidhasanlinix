@@ -11,8 +11,8 @@
 
 ### 🔭 I’m currently working on 
 
-- [TheBinder AI](https://github.com/TheBinder-AI) (2 Projects: TheBinder Agent, Open-Source Swarm-Sync-SDK)
-- [Tometo AI](https://tometoai.com/) (#2 on Product Hunt)
+- [TheBinder AI](https://github.com/TheBinder-AI) (2 Projects: TheBinder Agent, Open-Source Swarm-Sync-SDK) | YC S25 applicant 
+- [Tometo AI](https://tometoai.com/) (#2 on Product Hunt) | Top 10% YC applicant on batch of W25, X25
 
 ### 🔨 Some Old Projects
 
