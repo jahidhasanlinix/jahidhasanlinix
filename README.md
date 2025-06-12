@@ -22,6 +22,9 @@
 - [NexusFM](https://pypi.org/project/nexusfm/) (An advanced personalized file manager with GUI and terminal interface)
 - [Startup Valuation Playground](https://startupvaluationcalculation.vercel.app/)
 - [Credit card fraud detection system](https://github.com/jahidhasanlinix/FraudDetectApp)
+- [FALCON Post-Quantum Signature](https://github.com/jahidhasanlinix/COMS6810_Project)
+- [Quant Finance](https://github.com/jahidhasanlinix/QuantFinance)
+- [Refactorize SueNes Document Summarizer via Negative Sampling Using HuggingFace Transformer](https://github.com/jahidhasanlinix/RefactorizeSueNes)
 - Ex-Founder of TucanaStarSoft, LLC (Dissolved): A video game development company
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="27" /> Connect with me:
