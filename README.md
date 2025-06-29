@@ -14,8 +14,10 @@
 - [TheBinder AI](https://github.com/TheBinder-AI) (2 Projects: TheBinder Agent, Open-Source Swarm-Sync-SDK) | YC S25 applicant 
 - [Tometo AI](https://tometoai.com/) (#2 on Product Hunt) | Top 10% YC applicant on batch of W25, X25
 
-### 🔨 Some Old Projects
+### 🔨 Past Projects
 
+- [Operating Systems (OS) Reasoning LLM Model](https://huggingface.co/jahidhasan/os-reasoning-model)
+- [GPT-2 Model Inference and Optimization](https://github.com/jahidhasanlinix/gpt-2_inference_optimization)
 - [Arcane Arena Video Game](https://store.steampowered.com/app/2504810/Arcane_Arena/)
 - [IntelliParse - AI-powered document parser](https://intelliparse.vercel.app/)
 - [The Holy Quran](https://quran-xi-black.vercel.app/)
