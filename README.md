@@ -9,9 +9,9 @@
 </h1>
 
 
-### 🔭 I’m currently working on 
+### 🔭 I’m currently working on
 
-- [TheBinder AI](https://github.com/TheBinder-AI) (Highlighted Projects: COGNIX CLI, TheBinder Agent, Open-Source Swarm-Sync-SDK) | The Residency Delta Cohort
+- [Jukto AI](https://github.com/jukto-ai) (Highlighted Projects: COGNIX CLI, TheBinder Agent, Open-Source Swarm-Sync-SDK) | The Residency Delta Cohort
 - [Tometo AI](https://tometoai.com/) (#2 on Product Hunt) | Top 10% YC applicant on batch of W25, X25
 
 ### 🔨 Past Projects
