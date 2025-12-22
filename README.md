@@ -11,6 +11,7 @@
 
 ### 🔭 I’m currently working on
 
+- [Optovance Labs] (AI Research Labs for Healthcare)
 - [Jukto AI](https://github.com/jukto-ai) (Highlighted Projects: COGNIX CLI, TheBinder Agent, Open-Source Swarm-Sync-SDK) | The Residency Delta Cohort
 - [Tometo AI](https://tometoai.com/) (#2 on Product Hunt) | Top 10% YC applicant on batch of W25, X25
 
