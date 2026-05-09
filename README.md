@@ -11,9 +11,10 @@
 
 ### 🔭 I’m currently working on
 
-- Optovance Labs (AI Research Labs for Healthcare)
-- [Jukto AI](https://github.com/jukto-ai) (Highlighted Projects: COGNIX CLI, TheBinder Agent, Open-Source Swarm-Sync-SDK) | The Residency Delta Cohort
-- [Tometo AI](https://tometoai.com/) (#2 on Product Hunt) | Top 10% YC applicant on batch of W25, X25
+- Optovance Labs (B2B, HealthTech)
+- America First AI Legal Platform (B2B, LegalTech)
+- [Jukto AI](https://github.com/jukto-ai) (Highlighted Projects: AI-Native GPU Kernel Optimization, COGNIX CLI, TheBinder Agent, Open-Source Swarm-Sync-SDK) | The Residency Delta Cohort
+- [Tometo AI](https://tometoai.com/) (#2 on Product Hunt) | Top 5% YC applicant on batch of W25, X25
 
 ### 🔨 Past Projects
 
