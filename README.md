@@ -12,12 +12,16 @@
 ### 🔭 I’m currently working on
 
 - Optovance Labs (B2B, HealthTech)
-- America First AI Legal Platform (B2B, LegalTech)
+- Heartland AI Legal Platform (B2B, LegalTech)
 - [Jukto AI](https://github.com/jukto-ai) (Highlighted Projects: AI-Native GPU Kernel Optimization, COGNIX CLI, TheBinder Agent, Open-Source Swarm-Sync-SDK) | The Residency Delta Cohort
 - [Tometo AI](https://tometoai.com/) (#2 on Product Hunt) | Top 5% YC applicant on batch of W25, X25
 
-### 🔨 Past Projects
+### 🔨 Highlighted Projects
 
+- [LLM Basics and Fundamentals](https://github.com/jahidhasanlinix/LLM4All_LLM-for-all)
+- [Build your own GPT from Scratch](https://github.com/jahidhasanlinix/Own_GPT_Build)
+- [LLM Post-Training (SFT, DPO, RLO)](https://github.com/jahidhasanlinix/LLM_PostTraining)
+- [Computed Tomography (CT) Image Reconstruction](https://github.com/jahidhasanlinix/CT-Reconstruction-From-Scratch)
 - [Operating Systems (OS) Reasoning LLM Model](https://huggingface.co/jahidhasan/os-reasoning-model)
 - [GPT-2 Model Inference and Optimization](https://github.com/jahidhasanlinix/gpt-2_inference_optimization)
 - [Arcane Arena Video Game](https://store.steampowered.com/app/2504810/Arcane_Arena/)
