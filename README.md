@@ -12,12 +12,16 @@
 ### 🔭 I’m currently working on
 
 - Optovance Labs (B2B, HealthTech)
-- Heartland AI Legal Platform (B2B, LegalTech)
+- [Winny - Your Screen-Aware AI Buddy](https://github.com/jahidhasanlinix/Winny)
+- [Heartland AI Legal Platform](https://www.heartlandlegalai.com/) (B2B, LegalTech)
 - [Jukto AI](https://github.com/jukto-ai) (Highlighted Projects: AI-Native GPU Kernel Optimization, COGNIX CLI, TheBinder Agent, Open-Source Swarm-Sync-SDK) | The Residency Delta Cohort
 - [Tometo AI](https://tometoai.com/) (#2 on Product Hunt) | Top 5% YC applicant on batch of W25, X25
 
 ### 🔨 Highlighted Projects
 
+- [GTM A/B Testing Tracker System Skill](https://github.com/jahidhasanlinix/GTM-A-B-Tracker-Systems)
+- [GTM A/B Testing Tracker System Skill](https://github.com/jahidhasanlinix/GTM-A-B-Tracker-Systems)
+- [Multi-agent for Banking/Billing Assistant](https://github.com/jahidhasanlinix/ai_agent_builder)
 - [LLM Basics and Fundamentals](https://github.com/jahidhasanlinix/LLM4All_LLM-for-all)
 - [Build your own GPT from Scratch](https://github.com/jahidhasanlinix/Own_GPT_Build)
 - [LLM Post-Training (SFT, DPO, RLO)](https://github.com/jahidhasanlinix/LLM_PostTraining)
