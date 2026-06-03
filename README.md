@@ -19,6 +19,7 @@
 
 ### 🔨 Highlighted Projects
 
+- [Customer Churn Agent](https://github.com/jahidhasanlinix/churn_agent_langgraph)
 - [GTM A/B Testing Tracker System Skill](https://github.com/jahidhasanlinix/GTM-A-B-Tracker-Systems)
 - [GTM A/B Testing Tracker System Skill](https://github.com/jahidhasanlinix/GTM-A-B-Tracker-Systems)
 - [Multi-agent for Banking/Billing Assistant](https://github.com/jahidhasanlinix/ai_agent_builder)
